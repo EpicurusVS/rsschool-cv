@@ -12,10 +12,7 @@ E-mail: lukamozg@gmail.com
 I work as a construction engineer. I design metal structures. I am fond of sports and exact sciences. Hobby: astronomy. I want to gain new knowledge in the field of frontend development.
 
 ## Skills
-HTML
-CSS
-GIT
-GitHub
+HTML, CSS, GIT, GitHub
 
 ## Code example   
 ```JavaScript
