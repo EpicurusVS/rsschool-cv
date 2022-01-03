@@ -22,7 +22,6 @@ function multiply($a, $b) {
 return $a * $b;
 }
 ```
-
 ## Education
 Belarusian National Technical University. Major: construction engineer; Specialty: Industrial and civil construction.
 
