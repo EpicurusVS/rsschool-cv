@@ -14,7 +14,8 @@ I work as a construction engineer. I design metal structures. I am fond of sport
 ## Skills
 HTML
 CSS
-GIT, GitHub
+GIT
+GitHub
 
 ## Code example   
 ```JavaScript
