@@ -1,1 +1,1 @@
-# rsschool-cv
+https://epicurusvs.github.io/rsschool-cv/cv
