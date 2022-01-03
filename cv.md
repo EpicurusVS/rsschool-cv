@@ -1,27 +1,15 @@
-# Dyatko Dmitry
+# Aliaksandr Lukyanenka
 
 ## Contact
-Location: Mozyr, Belarus
 
-E-mail: dyatkodmitry@gmail.com
+Discord: nPABOCJlABHblu_ATEuCT#8768
 
-Discord: DmitryDyatko#1590
+GitHub: @epicurusvs
 
-GitHub: @DyatkoDmitry
-
-Vk.com: vk.com/rampant_name
+E-mail: lukamozg@gmail.com
 
 ## About me
-Currently, I work at Belarusian railway as a electrical engineer. I’ve been there for just over ten years.
-My responsibilities include maintenance of computers and other electronic equipment. I decided to take the RS School course to learn about the technologies of web development, as well as to gain experience in HTML, CSS and JavaScript. 
-
-+ My goals and priorities:
-    * Learning about web development
-    * Improve git skills
-    * Improve english skills
-+ My strength:
-    * Attentiveness
-	* Action-oriented skill
+I work as a construction engineer. I design metal structures. I am fond of sports and exact sciences. Hobby: astronomy. I want to gain new knowledge in the field of frontend development.
 
 ## Skills
 HTML
